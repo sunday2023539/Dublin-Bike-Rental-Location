@@ -57,7 +57,7 @@ The project generates an interactive HTML map that can be viewed in any modern w
 
 **Live Interactive Map:**
 
-👉 https://sunday2023539.github.io/Dublin-Bike-Rental-Location/dublin_bike_stations_map.html
+👉 https://github.com/sunday2023539/Dublin-Bike-Rental-Location/blob/main/dublin_bike_stations_map.html
 
 ---
 
